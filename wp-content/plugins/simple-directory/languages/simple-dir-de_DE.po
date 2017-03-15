@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Directory Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Aug 18 2015 15:38:43 GMT+0200\n"
+"PO-Revision-Date: Tue Aug 18 2015 16:55:16 GMT+0200\n"
+"Last-Translator: Daniel Hoffmann <daniel.hoffmann@kda.de>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../plugins/simple-directory\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../../plugins/simple-directory/simple-directory.php:80
+msgid "Custom Settings"
+msgstr "Individuelle Einstellungen"
+
+#: ../../plugins/simple-directory/simple-directory.php:81
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../../plugins/simple-directory/simple-directory.php:100
+msgid "Welcome To Simple Directory"
+msgstr "Willkommen zu Simple Directory"
+
+#: ../../plugins/simple-directory/simple-directory.php:191 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Installiere erforderliche Plugins"
+
+#: ../../plugins/simple-directory/simple-directory.php:192 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Installiere Plugins"
+
+#: ../../plugins/simple-directory/simple-directory.php:193 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin %s"
+
+#: ../../plugins/simple-directory/simple-directory.php:194
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ist mit der Plugin API schief gelaufen."
+
+#: ../../plugins/simple-directory/simple-directory.php:195 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dieses Theme benötigt die folgenden Plugins: %$s."
+msgstr[1] "Dieses Theme benötigt die folgenden Plugins: %$s."
+
+#: ../../plugins/simple-directory/simple-directory.php:196 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Theme empfiehlt die folgenden Plugins: %$s."
+msgstr[1] "Dieses Theme empfiehlt die folgenden Plugins: %$s."
+
+#: ../../plugins/simple-directory/simple-directory.php:197 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Entschuldige, aber Du hast keine Rechte zur Plugin-Installation  von %s. "
+"Kontakte Deine/n Administrator/in."
+msgstr[1] ""
+"Entschuldige, aber Du hast keine Rechte zur Plugin-Installation  von %s. "
+"Kontakte Deine/n Administrator/in."
+
+#: ../../plugins/simple-directory/simple-directory.php:198 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende erforderliche Plugin ist nicht aktiviert: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind nicht aktiviert: %1$s."
+
+#: ../../plugins/simple-directory/simple-directory.php:199 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist nicht aktiviert: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind nicht aktiviert: %1$s."
+
+#: ../../plugins/simple-directory/simple-directory.php:200 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Entschuldige, aber Du hast keine Rechte zur Plugin-Aktivierung  von %s. "
+"Kontakte Deine/n Administrator/in."
+msgstr[1] ""
+"Entschuldige, aber Du hast keine Rechte zur Plugin-Aktivierung  von %s. "
+"Kontakte Deine/n Administrator/in."
+
+#: ../../plugins/simple-directory/simple-directory.php:201 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Die folgenden Plugins müssen aktualisiert werden: %1$s."
+msgstr[1] "Die folgenden Plugins müssen aktualisiert werden: %1$s."
+
+#: ../../plugins/simple-directory/simple-directory.php:202 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Entschuldige, aber Du hast keine Rechte zur Plugin-Aktualisierung  von %s. "
+"Kontakte Deine/n Administrator/in."
+msgstr[1] ""
+"Entschuldige, aber Du hast keine Rechte zur Plugin-Aktualisierung  von %s. "
+"Kontakte Deine/n Administrator/in."
+
+#: ../../plugins/simple-directory/simple-directory.php:203 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne Plugin-Installation"
+msgstr[1] "Beginne Plugin-Installation"
+
+#: ../../plugins/simple-directory/simple-directory.php:204 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginne Plugin-Aktivierung"
+msgstr[1] "Beginne Plugin-Aktivierung"
+
+#: ../../plugins/simple-directory/simple-directory.php:205 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum Plugin-Installer"
+
+#: ../../plugins/simple-directory/simple-directory.php:206 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:177 ../../plugins/simple-
+#: directory/class-simple-dir-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: ../../plugins/simple-directory/simple-directory.php:207
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle Plugins erfolgreich installiert und aktiviert. %s"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Etwas ging schief"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:178 ../..
+#: /plugins/simple-directory/class-simple-dir-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Das folgende Plugin wurde erfolgreich aktiviert:"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins erfolgreich installiert und aktiviert. %1$s"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Hinweis verbergen"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:534 ../..
+#: /plugins/simple-directory/class-simple-dir-plugin-activation.php:534 ../..
+#: /plugins/simple-directory/class-simple-dir-plugin-activation.php:2162 ../..
+#: /plugins/simple-directory/class-simple-dir-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr "Privates Repository"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr "ZIP-File"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1180
+msgid "Required"
+msgstr "Benötigt"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1180
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1290 ../.
+#: ./plugins/simple-directory/class-simple-dir-plugin-activation.php:1290 ../..
+#: /plugins/simple-directory/class-simple-dir-plugin-activation.php:1398
+msgid "Install"
+msgstr "Installieren"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1312 ../.
+#: ./plugins/simple-directory/class-simple-dir-plugin-activation.php:1312 ../..
+#: /plugins/simple-directory/class-simple-dir-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Keine Plugins zur Installation oder Aktivierung. <a href=\"%1$s\" "
+"title=\"Zurück zum Dashboard\">Zurück zum Dashboard</a>"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1378
+msgid "Source"
+msgstr "Quelle"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1379 ../.
+#: ./plugins/simple-directory/parts/meta-boxes/listing-metabox.php:10
+msgid "Type"
+msgstr "Typ"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1380
+msgid "Status"
+msgstr "Status"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr "Installationspaket nicht verfügbar"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Herunterladen des Installationspakets von <span class=\"code\">%s</span>&#8230;"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr "Entpacke das Paket&#8230;"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr "Installiere das Plugin&#8230;"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr "Plugininstallation fehlgeschlagen."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr "Installation erfolgreich."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr "Pluginaktivierung fehlgeschlagen."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Der Installations- und Aktivierungsprozess ist gestartet. Manchmal dauert es "
+"ein bisschen, sei geduldig."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2059 ../.
+#: ./plugins/simple-directory/class-simple-dir-plugin-activation.php:2068
+msgid "Show Details"
+msgstr "Zeige Details"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2059 ../.
+#: ./plugins/simple-directory/class-simple-dir-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr "Verstecke Details"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen udn Aktivierungen sind vollständig."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiert und Aktiviert Plugin %1$s (%2$d/%3$d)"
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsprozess ist gestartet. Manchmal dauert es ein bisschen, sei "
+"geduldig."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Während der Installation ist ein Fehler aufgetreten %1$s: "
+"<strong>%2$s</strong>."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich intalliert."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind komplett."
+
+#: ../../plugins/simple-directory/class-simple-dir-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:128
+msgid "Your theme requires PIKLIST to work properly."
+msgstr "Dein Theme benötigt Piklist um sauber zu arbeiten."
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:138
+msgid "The following plugin(s) require PIKLIST, and have been deactivated:"
+msgstr "Die folgenden Plugins benötigen Piklist und wurden deaktiviert: "
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:154
+msgid "You can:"
+msgstr "Du kannst:"
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:167 ../..
+#: /plugins/simple-directory/class-piklist-checker.php:167
+msgid "Activate Piklist for this site"
+msgstr "Aktiviere Piklist für diese Seite"
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:174 ../..
+#: /plugins/simple-directory/class-piklist-checker.php:174
+msgid "Network Activate Piklist for all sites."
+msgstr "Aktiviere Piklist netzwerkweit"
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:181 ../..
+#: /plugins/simple-directory/class-piklist-checker.php:181
+msgid "Install Piklist"
+msgstr "Installiere Piklist"
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:188
+#, php-format
+msgid "%1$s %2$sDismiss this message."
+msgstr "%1$s %2$sNachricht verbergen."
+
+#: ../../plugins/simple-directory/class-piklist-checker.php:192
+#, php-format
+msgid "%1$s %2$sChange your theme."
+msgstr "%1$s %2$sWechsle Dein Theme."
+
+#: ../../plugins/simple-directory/includes/create-listing.php:7
+msgid "Simple Business Listings"
+msgstr "Einfache Business-Verzeichnisse"
+
+#: ../../plugins/simple-directory/includes/shortcodes.php:7
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: ../../plugins/simple-directory/includes/shortcodes.php:8
+msgid "Enter term..."
+msgstr "Suchwort"
+
+#: ../../plugins/simple-directory/templates/single-listing.php:59
+msgid "Website"
+msgstr "Website"
+
+#: ../../plugins/simple-directory/templates/single-listing.php:76
+msgid "Get Directions"
+msgstr "Routenplaner"
+
+#: ../../plugins/simple-directory/templates/single-listing.php:84
+msgid "<strong>Other Phone:</strong>"
+msgstr "<strong>Weitere Telefonnummer:</strong>"
+
+#: ../../plugins/simple-directory/templates/archive-listing.php:72 ../..
+#: /plugins/simple-directory/templates/archive-listing.php:113
+msgid "DETAILS"
+msgstr "DETAILS"
+
+#: ../../plugins/simple-directory/templates/archive-listing.php:84
+msgid "CALL NOW"
+msgstr "JETZT ANRUFEN"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:83
+msgid ""
+"Simple Directory creates a custom post type called a "
+"<strong>Listing</strong>.  Each listing has a title (just like a regular "
+"post) and a description. There are fields for contact info and social links. "
+" To add a logo, use the Featured Image uploader."
+msgstr ""
+"Simple Directory erstellt einen Custom-Post-Type <strong>Listing</strong>.  "
+"Jedes Listing hat einen Titel (wie ein Beitrag) und eine Beschreibung. Es "
+"gibt weitere Felder für Kontaktinformationen und Links zu Netzwerken. Um ein "
+"Logo hinzuzufügen, nutze das Beitragsbild."
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:84
+msgid "Templates"
+msgstr "Vorlagen"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:85
+msgid ""
+"The plugin comes with two templated for displaying the listings: single-"
+"listing.php and archive-listing.php.  Both of these files are found in the "
+"/templates/ directory.  You can customize the templates, but any changes "
+"will be overwritten when you upgrade."
+msgstr ""
+"Das Plugin hat zwei Templates (Vorlagen) um die Verzeichnisse darzustellen: "
+"single-listings.php und archive-listings.php. Beide findest Du im "
+"Verzeichnis /templates/ . Du kannst sie anpassen, aber bedenke, dass sie bei "
+"einem Update überschrieben werden."
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:86
+msgid "Support"
+msgstr "Support"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:87
+msgid "Looking for support? Got questions?"
+msgstr "Du suchst Unterstützung? Du hast Fragen?"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:87
+msgid "Visit the support forum to get answers"
+msgstr "Nutze die Supportforen und erhalte Antworten"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:87
+msgid "Want more?"
+msgstr "Du möchtest mehr?"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:87
+msgid "Upgrage to Pro"
+msgstr "Kaufe die Pro-Version!"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:93
+msgid "Want More?"
+msgstr "Du möchtest mehr?"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:94
+msgid "More Features.  More Support."
+msgstr "Mehr Funktionen, mehr Support."
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:95
+msgid ""
+"<strong>Simple Directory Pro</strong> gives you more features and more "
+"control to take your directory site to new heights."
+msgstr ""
+"<strong>Simple Directory Pro</strong> gibt Dir mehr Funktionen und Kontrolle "
+"über Dein Verzeichnis."
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:101
+msgid "Learn About Pro"
+msgstr "Über die Pro-Version"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:104
+msgid "Improve Your Local SEO"
+msgstr "Steigere Dein lokales SEO."
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:105
+msgid ""
+"Display your contact info property formatted for Rich Snippets, with the "
+"<strong>FREE</strong> hCard Widget Plugin"
+msgstr ""
+"Die Kontaktinformationen werden sauber formatiert für Rich Snippets mit dem "
+"<strong>FREE</strong> hCard Widget Plugin\n"
+"\n"
+"Display your contact info property formatted for Rich Snippets, with the "
+"<strong>FREE</strong> hCard Widget Plugin"
+
+#: ../../plugins/simple-directory/parts/admin-pages/guide-page.php:106
+msgid "Get the hCard Widget"
+msgstr "Hol Dir das hCard Widget"
+
+#: ../../plugins/simple-directory/parts/widgets/listing-search-form.php:6
+msgid "Widget Title"
+msgstr "Widget-Titel"
+
+#: ../../plugins/simple-directory/parts/widgets/listing-search-form.php:15
+msgid "Default Search Text"
+msgstr "Vorgegebener Suchtext"
+
+#: ../../plugins/simple-directory/parts/widgets/listing-search-form.php:16
+msgid "Set the default text that appears in the search box."
+msgstr "Welcher Text soll in der Suchbox erscheinen?"
+
+#: ../../plugins/simple-directory/parts/widgets/listing-search-form.php:17
+msgid "What are you looking for?"
+msgstr "Wonach Suchst Du?"
+
+#: ../../plugins/simple-directory/parts/widgets/listing-search.php:13 ../..
+#: /plugins/simple-directory/parts/widgets/listing-search.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: ../../plugins/simple-directory/parts/widgets/listing-search.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: ../../plugins/simple-directory/parts/dashboard/dashboard-simple-directory.php:55
+msgid "No items"
+msgstr "Keine Einträge"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/listing-metabox.php:16
+msgid "Individual"
+msgstr "Einzelperson"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/listing-metabox.php:17 ../..
+#: /plugins/simple-directory/parts/meta-boxes/listing-metabox.php:24
+msgid "Organization"
+msgstr "Organisation"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/listing-metabox.php:42
+msgid "Title"
+msgstr "Titel"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/listing-metabox.php:103
+msgid "Label for Other Phone Number"
+msgstr "Bezeichnung für andere Telefonnummer"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/listing-metabox.php:104
+msgid ""
+"Enter the label you want displayed with the other phone number.  Examples "
+"are 'mobile' or 'toll free'."
+msgstr ""
+"Welche Bezeichnung soll die zweite Telefonnummer erhalten? Beispiele sind "
+"'Mobil' oder 'Kostenlose Rufnummer'."
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:10
+msgid "URL of your Google + Page"
+msgstr "URL der Google + Seite"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:25
+msgid "URL of your Facebook page"
+msgstr "URL der Facebook-Seite"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:40
+msgid "Your Twitter Username"
+msgstr "Der Twitter Nutzername"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:41
+msgid "Your username without the @"
+msgstr "Nutzername ohne @"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:56
+msgid "URL of your LinkedIn Profile"
+msgstr "URL des LinkedIn-Profils"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:71
+msgid "Your Instagram Username"
+msgstr "Der Instagramm Nutzername"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:85
+msgid "URL of your YouTube Channel"
+msgstr "URL des YouTube-Channels"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:100
+msgid "URL of your RSS Feed"
+msgstr "URL des RSS-Feeds"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/social-metabox.php:115
+msgid "URL of your Pinterest page"
+msgstr "URL der Pinterest-Seite"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/status-metabox.php:13
+msgid "Listing Level"
+msgstr "Verzeichnis-Ebene"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/status-metabox.php:19
+msgid "Basic"
+msgstr "Basis"
+
+#: ../../plugins/simple-directory/parts/meta-boxes/status-metabox.php:20
+msgid "Premium"
+msgstr "Premium"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:11
+msgid "Disable Foundation CSS?"
+msgstr "Deaktiviere Foundation CSS?"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:12
+msgid ""
+"If your theme already uses Foundation, or if you are experiencing conflicts "
+"with the styling or layouts, you can disable Simple Directory&apos;s loading "
+"of the Foundation CSS."
+msgstr ""
+"Wenn Dein Theme bereits  Foundation CSS lädt, oder Du andere "
+"Darstellungsprobleme hast, kannst Du es hier abschalten"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:17 ../..
+#: /plugins/simple-directory/parts/settings/directory-settings.php:56 ../..
+#: /plugins/simple-directory/parts/settings/directory-settings.php:68 ../..
+#: /plugins/simple-directory/parts/settings/directory-settings.php:85
+msgid "Yes"
+msgstr "Ja"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:18 ../..
+#: /plugins/simple-directory/parts/settings/directory-settings.php:57 ../..
+#: /plugins/simple-directory/parts/settings/directory-settings.php:69 ../..
+#: /plugins/simple-directory/parts/settings/directory-settings.php:86
+msgid "No"
+msgstr "Nein"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:26
+msgid "Show Theme Sidebar on Single Listing?"
+msgstr "Zeige die Sidebar des Themes auf der Eintrags/Einzel-Seite?"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:38
+msgid "Show Theme Sidebar on Listing Archive?"
+msgstr "Zeige die Sidebar des Themes auf der Verzeichnis-Seite?"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:50
+msgid "Enable Sitelinks Search in Google Results?"
+msgstr "Aktiviere die Sitelinks-Suche in Google-Suchergebnissen?"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:64
+msgid "Enable Comments?"
+msgstr "Aktiviere Kommentare?"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:65
+msgid "Allow users to leave comments on listings?"
+msgstr "Erlaube Nutzer/innen Kommentare zu den Einträgen zu hinterlassen?"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:78
+msgid "Show a credit link in the footer?"
+msgstr "Zeige einen Link zum Autoren auf der Seite?"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:79
+msgid ""
+"This plugin is free, but it takes a lot of work.  Show a little love by "
+"letting us place a small link in the footer of your site.  Thanks!"
+msgstr ""
+"Dieses Plugin ist kostenlos, aber es benötigt viel Zeit. Zeige ein bisschen "
+"Liebe und platziere einen kleinen Link zu uns im Fuß."
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:92
+msgid "Custom CSS"
+msgstr "Individuelles CSS"
+
+#: ../../plugins/simple-directory/parts/settings/directory-settings.php:93
+msgid ""
+"You can customize the appearance of your listings and archive pages with "
+"your own CSS."
+msgstr "Du kannst das Aussehen Deines Verzeichnisses mit eigenem CSS anpassen."
+
+#: ../../plugins/simple-directory/parts/notices/notice-rating-1.php:8
+msgid ""
+"<h4>Thanks for using Simple Directory! Please help us out by giving us a <a "
+"href=\"http://wordpress.org/support/view/plugin-reviews/simple-directory\" "
+"target=\"_blank\">nice review</a>?</h4>"
+msgstr ""
+"<h4>Danke, dass Du Simple Directory nutzt! Bitte hilf uns mit einem <a "
+"href=\"http://wordpress.org/support/view/plugin-reviews/simple-directory\" "
+"target=\"_blank\">netten Review</a>?</h4>"
+
+#: ../../plugins/simple-directory/parts/help/directory-help-main.php:9
+msgid "Getting Started"
+msgstr "Jetzt loslegen"
+
+#: ../../plugins/simple-directory/parts/help/directory-help-main.php:10
+msgid ""
+"Adding a new listing is simple.  Add the name of the organization or "
+"individual to as the listing title, and then fill in as much detail as "
+"possible."
+msgstr ""
+"Ein neues Verzeichnis anlegen ist einfach. Gib den Namen der Person oder "
+"Organisation und möglichst viele Details ein."
+
+#: ../../plugins/simple-directory/parts/help/directory-help-main.php:11
+msgid ""
+"All external links are rel=\"nofollow\", so that your directory won't violate "
+"Google's Webmaster Guidelines, if you decided to charge for listings."
+msgstr ""
+"Alle externen Links sind rel=\"nofollow\", so das Du nicht die Google's "
+"Webmaster Guidelines verletzt, wenn Du Dich für bezahlte Listings "
+"entscheidest."

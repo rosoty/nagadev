@@ -1,0 +1,666 @@
+# Copyright (C) 2015 Simple Directory Plugin
+# This file is distributed under the same license as the Simple Directory Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Directory Plugin 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-directory\n"
+"POT-Creation-Date: 2015-12-01 17:33:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class-piklist-checker.php:128
+msgid "Your theme requires PIKLIST to work properly."
+msgstr ""
+
+#: class-piklist-checker.php:138
+msgid "The following plugin(s) require PIKLIST, and have been deactivated:"
+msgstr ""
+
+#: class-piklist-checker.php:154
+msgid "You can:"
+msgstr ""
+
+#: class-piklist-checker.php:167
+msgid "Activate Piklist for this site"
+msgstr ""
+
+#: class-piklist-checker.php:174
+msgid "Network Activate Piklist for all sites."
+msgstr ""
+
+#: class-piklist-checker.php:181
+msgid "Install Piklist"
+msgstr ""
+
+#: class-piklist-checker.php:188
+msgid "%1$s %2$sDismiss this message."
+msgstr ""
+
+#: class-piklist-checker.php:192
+msgid "%1$s %2$sChange your theme."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:161 simple-directory.php:191
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:162 simple-directory.php:192
+msgid "Install Plugins"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:163 simple-directory.php:193
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:165 simple-directory.php:195
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:166 simple-directory.php:196
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:167 simple-directory.php:197
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:168 simple-directory.php:198
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:169 simple-directory.php:199
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:170 simple-directory.php:200
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:171 simple-directory.php:201
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:172 simple-directory.php:202
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:173 simple-directory.php:203
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:174 simple-directory.php:204
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-simple-dir-plugin-activation.php:175 simple-directory.php:205
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:177
+#: class-simple-dir-plugin-activation.php:1945 simple-directory.php:206
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:178
+#: class-simple-dir-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:179
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:534
+#: class-simple-dir-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1290
+#: class-simple-dir-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1312
+#: class-simple-dir-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1361
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1379
+#: parts/meta-boxes/listing-metabox.php:10
+msgid "Type"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1929
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2059
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2059
+#: class-simple-dir-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2059
+#: class-simple-dir-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2061
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2066
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2067
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2068
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-simple-dir-plugin-activation.php:2070
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/create-listing.php:7
+msgid "Simple Business Listings"
+msgstr ""
+
+#: includes/shortcodes.php:7
+msgid "Search for:"
+msgstr ""
+
+#: includes/shortcodes.php:8
+msgid "Enter term..."
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:83
+msgid ""
+"Simple Directory creates a custom post type called a <strong>Listing</"
+"strong>.  Each listing has a title (just like a regular post) and a "
+"description. There are fields for contact info and social links.  To add a "
+"logo, use the Featured Image uploader."
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:84
+msgid "Templates"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:85
+msgid ""
+"The plugin comes with two templated for displaying the listings: single-"
+"listing.php and archive-listing.php.  Both of these files are found in the /"
+"templates/ directory.  You can customize the templates, but any changes will "
+"be overwritten when you upgrade."
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:86
+msgid "Support"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:87
+msgid "Looking for support? Got questions?"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:87
+msgid "Visit the support forum to get answers"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:87
+msgid "Want more?"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:87
+msgid "Upgrage to Pro"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:93
+msgid "Want More?"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:94
+msgid "More Features.  More Support."
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:95
+msgid ""
+"<strong>Simple Directory Pro</strong> gives you more features and more "
+"control to take your directory site to new heights."
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:101
+msgid "Learn About Pro"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:104
+msgid "Improve Your Local SEO"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:105
+msgid ""
+"Display your contact info property formatted for Rich Snippets, with the "
+"<strong>FREE</strong> hCard Widget Plugin"
+msgstr ""
+
+#: parts/admin-pages/guide-page.php:106
+msgid "Get the hCard Widget"
+msgstr ""
+
+#: parts/dashboard/dashboard-simple-directory.php:55
+msgid "No items"
+msgstr ""
+
+#: parts/help/directory-help-main.php:9
+msgid "Getting Started"
+msgstr ""
+
+#: parts/help/directory-help-main.php:10
+msgid ""
+"Adding a new listing is simple.  Add the name of the organization or "
+"individual to as the listing title, and then fill in as much detail as "
+"possible."
+msgstr ""
+
+#: parts/help/directory-help-main.php:11
+msgid ""
+"All external links are rel=\"nofollow\", so that your directory won't "
+"violate Google's Webmaster Guidelines, if you decided to charge for listings."
+msgstr ""
+
+#: parts/meta-boxes/listing-metabox.php:16
+msgid "Individual"
+msgstr ""
+
+#: parts/meta-boxes/listing-metabox.php:17
+#: parts/meta-boxes/listing-metabox.php:24
+msgid "Organization"
+msgstr ""
+
+#: parts/meta-boxes/listing-metabox.php:42
+msgid "Title"
+msgstr ""
+
+#: parts/meta-boxes/listing-metabox.php:103
+msgid "Label for Other Phone Number"
+msgstr ""
+
+#: parts/meta-boxes/listing-metabox.php:104
+msgid ""
+"Enter the label you want displayed with the other phone number.  Examples "
+"are 'mobile' or 'toll free'."
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:10
+msgid "URL of your Google + Page"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:25
+msgid "URL of your Facebook page"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:40
+msgid "Your Twitter Username"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:41
+msgid "Your username without the @"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:56
+msgid "URL of your LinkedIn Profile"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:71
+msgid "Your Instagram Username"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:85
+msgid "URL of your YouTube Channel"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:100
+msgid "URL of your RSS Feed"
+msgstr ""
+
+#: parts/meta-boxes/social-metabox.php:115
+msgid "URL of your Pinterest page"
+msgstr ""
+
+#: parts/meta-boxes/status-metabox.php:13
+msgid "Listing Level"
+msgstr ""
+
+#: parts/meta-boxes/status-metabox.php:19
+msgid "Basic"
+msgstr ""
+
+#: parts/meta-boxes/status-metabox.php:20
+msgid "Premium"
+msgstr ""
+
+#: parts/notices/notice-rating-1.php:8
+msgid ""
+"<h4>Thanks for using Simple Directory! Please help us out by giving us a <a "
+"href=\"http://wordpress.org/support/view/plugin-reviews/simple-directory\" "
+"target=\"_blank\">nice review</a>?</h4>"
+msgstr ""
+
+#: parts/settings/directory-settings.php:11
+msgid "Disable Foundation CSS?"
+msgstr ""
+
+#: parts/settings/directory-settings.php:12
+msgid ""
+"If your theme already uses Foundation, or if you are experiencing conflicts "
+"with the styling or layouts, you can disable Simple Directory&apos;s loading "
+"of the Foundation CSS."
+msgstr ""
+
+#: parts/settings/directory-settings.php:17
+#: parts/settings/directory-settings.php:56
+#: parts/settings/directory-settings.php:68
+#: parts/settings/directory-settings.php:86
+#: parts/settings/directory-settings.php:110
+msgid "Yes"
+msgstr ""
+
+#: parts/settings/directory-settings.php:18
+#: parts/settings/directory-settings.php:57
+#: parts/settings/directory-settings.php:69
+#: parts/settings/directory-settings.php:87
+#: parts/settings/directory-settings.php:111
+msgid "No"
+msgstr ""
+
+#: parts/settings/directory-settings.php:26
+msgid "Show Theme Sidebar on Single Listing?"
+msgstr ""
+
+#: parts/settings/directory-settings.php:38
+msgid "Show Theme Sidebar on Listing Archive?"
+msgstr ""
+
+#: parts/settings/directory-settings.php:50
+msgid "Enable Sitelinks Search in Google Results?"
+msgstr ""
+
+#: parts/settings/directory-settings.php:64
+msgid "Enable Comments?"
+msgstr ""
+
+#: parts/settings/directory-settings.php:65
+msgid "Allow users to leave comments on listings?"
+msgstr ""
+
+#: parts/settings/directory-settings.php:79
+msgid "Show a credit link in the footer?"
+msgstr ""
+
+#: parts/settings/directory-settings.php:80
+msgid ""
+"This plugin is free, but it takes a lot of work.  Show a little love by "
+"letting us place a small link in the footer of your site.  Thanks!"
+msgstr ""
+
+#: parts/settings/directory-settings.php:93
+msgid "Custom CSS"
+msgstr ""
+
+#: parts/settings/directory-settings.php:94
+msgid ""
+"You can customize the appearance of your listings and archive pages with "
+"your own CSS."
+msgstr ""
+
+#: parts/settings/directory-settings.php:106
+msgid "Enable Visual Composer Compatibility"
+msgstr ""
+
+#: parts/settings/directory-settings.php:107
+msgid ""
+"If your theme uses the <a href=\"http://codecanyon.net/item/visual-composer-"
+"page-builder-for-wordpress/242431\" target=\"_blank\">Visual Composer</a> "
+"and/or the <a href=\"http://wpmegamenu.com/\" target=\"_blank\">UberMenu</a> "
+"plugins, you might need to enable this option to fix some compatibility "
+"issues."
+msgstr ""
+
+#: parts/widgets/listing-search-form.php:6
+msgid "Widget Title"
+msgstr ""
+
+#: parts/widgets/listing-search-form.php:15
+msgid "Default Search Text"
+msgstr ""
+
+#: parts/widgets/listing-search-form.php:16
+msgid "Set the default text that appears in the search box."
+msgstr ""
+
+#: parts/widgets/listing-search-form.php:17
+msgid "What are you looking for?"
+msgstr ""
+
+#: parts/widgets/listing-search.php:13 parts/widgets/listing-search.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: parts/widgets/listing-search.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: simple-directory.php:80
+msgid "Custom Settings"
+msgstr ""
+
+#: simple-directory.php:81
+msgid "Settings"
+msgstr ""
+
+#: simple-directory.php:100
+msgid "Welcome To Simple Directory"
+msgstr ""
+
+#: simple-directory.php:194
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: simple-directory.php:207
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: templates/archive-listing.php:72 templates/archive-listing.php:113
+msgid "DETAILS"
+msgstr ""
+
+#: templates/archive-listing.php:84
+msgid "CALL NOW"
+msgstr ""
+
+#: templates/single-listing.php:60
+msgid "Website"
+msgstr ""
+
+#: templates/single-listing.php:77
+msgid "Get Directions"
+msgstr ""
+
+#: templates/single-listing.php:85
+msgid "<strong>Other Phone:</strong>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Directory Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://contexta.ca/simple-directory/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Creates a very simple business listing post type."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "michaellautman"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://contexta.ca"
+msgstr ""
